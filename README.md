@@ -17,7 +17,7 @@ Kaggle의 시애틀 일별 관측 25,551건으로 강수 계절성을 살펴보�
 
 데이터셋:https://www.kaggle.com/datasets/rtatman/did-it-rain-in-seattle-19482017
 
-유튜브 영상:
+유튜브 영상:https://youtu.be/gqEBw39Az_g?si=neeDF9v1oBL6kWIM
 ## 1 서론
 
 ### 1.1 연구 배경과 예측 시점
